@@ -1,0 +1,15 @@
+body{
+    background-image: url(./imagenes/Fondo\ de\ minecraft.jpg);
+    background-size: 50% 100%;
+    text-align: center;
+
+}
+#mundo{
+    background-color: rgb(17, 174, 242);
+}
+h1{
+    font-family: 'Pixelify Sans';
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
