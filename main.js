@@ -6,7 +6,7 @@ var jugador = ""
 var bloque = ""
 function dibujarJugador() {
     mundo.remove(jugador)
-    fabric.Image.fromURL("./imagenes/Steve.png", function (IMG) {
+    fabric.Image.fromURL("imagenes/Steve.png", function (IMG) {
         jugador = IMG
         jugador.scaleToWidth(50)
         jugador.scaleToHeight(70)
